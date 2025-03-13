@@ -20,7 +20,7 @@ Here are some insights of the dashboard for 2024:
 
 * I have played more songs on Wednesdays at 5 p.m. with 465 number of plays.
 
-* I usuually tend to listen the same songs, without using the shuffle mode and always connected to the Internet.
+* I usually tend to listen the same songs, without using the shuffle mode and always connected to the Internet.
 
 * Lastly, I usually tends to listen music completely, rather than skipping songs.
 
